@@ -58,4 +58,6 @@ e.g.
 
 Then I learned about JFrame, and Calculator.java was made. This was calc3.java wrapped in a GUI with added features, such as an averaging calculator, variables that are definable by the user, etc. This is extremely stupid and its only purpose was me learning how to program.
 
-To this day, if someone asks me for an example project, I tell them to make a calculator. I believe that it is an excellent project that can always be expanded to learn more. For example, calc.java used if statements and println. calc2.java used string methods and else ifs. calc3.java used methods, ArrayLists, comments, etc. Calculator.java used JFrame and other GUI classes, my own classes, an a few other topics.
+To this day, if someone asks me for an example project, I tell them to make a calculator. I believe that it is an excellent project that can always be expanded to learn more. For example, calc.java used if statements and println. calc2.java used string methods and else ifs. calc3.java used methods, ArrayLists, comments, etc. Calculator.java used JFrame and other GUI classes, my own classes, reading and writing to files, and a few other topics.
+
+This program probably will not compile as I have not worked on it in years. Keep in mind that I wrote it as a freshman, so it has a lot of spaghetti sections, and as I look back on the file, I realize that the class with main() in it has a constructor, which I swear I have never done anywhere else. 
