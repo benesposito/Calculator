@@ -9,8 +9,11 @@ e.g.
 
 
 Inputs:
+
 2
+
 4
+
 1
 
 Output:
@@ -21,11 +24,15 @@ Next, I learned string methods, such as .equals() and made calc2.java. This was 
 e.g.
 
 Inputs:
+
 2
+
 4
+
 addition
 
 Output:
+
 6
 
 calc3.java was made around November of my freshman year (2015). I was very proud of calc3.java. It was a command line calculator which followed the rules of PEMDAS and gave an answer.
@@ -33,9 +40,11 @@ calc3.java was made around November of my freshman year (2015). I was very proud
 e.g.
 
 Input:
+
 4 * 2 / 6^2 - 6 * (2 - 1)
 
 Output:
+
 -5.77777777778
 
 Then I learned about JFrame, and Calculator.java was made. This was calc3.java wrapped in a GUI with added features, such as an averaging calculator, variables that are definable by the user, etc. This is extremely stupid and its only purpose was me learning how to program.
